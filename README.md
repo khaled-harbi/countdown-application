@@ -73,13 +73,13 @@ Scan the QR code displayed in the terminal using the Expo Go app on your phone.
 ## 📷 Screenshots  
 
 <p align="center">
-  <img src="1.jpg" alt="Screenshot 1" width="45%">
-  <img src="2.jpg" alt="Screenshot 2" width="45%">
+  <img src="1.jpg" alt="Screenshot 1" width="35%">
+  <img src="2.jpg" alt="Screenshot 2" width="35%">
 </p>
 
 <p align="center">
-  <img src="3.jpg" alt="Screenshot 3" width="45%">
-  <img src="4.jpg" alt="Screenshot 4" width="45%">
+  <img src="3.jpg" alt="Screenshot 3" width="35%">
+  <img src="4.jpg" alt="Screenshot 4" width="35%">
 </p>
 
 ---
