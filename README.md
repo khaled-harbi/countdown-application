@@ -7,7 +7,8 @@
 **Countdown & Event Manager** is a mobile application designed to help users track and manage upcoming events with ease.
 Users can create personalized countdowns for birthdays, deadlines, appointments, and more, while receiving timely notifications to stay on top of their schedule.
 
-The application integrates Firebase Authentication for secure sign up and login, Firebase Database for storing countdown events, and Expo Notifications to alert users about upcoming events.   
+The application integrates Firebase Authentication for secure sign up and login, Firebase Database for storing countdown events, and Expo Notifications to alert users about upcoming events.  
+
 Navigation features like bottom tabs and stacked views provide a smooth and intuitive experience.
 
 ---
