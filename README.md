@@ -35,7 +35,7 @@ Navigation features like bottom tabs and stacked views provide a smooth and intu
 ## 🛠 Tech Stack  
 - **Frontend:** React Native
 - **Backend:** Firebase BaaS
-- **Notifications:** Expo Notifications-
+- **Notifications:** Expo Notifications
 - **Navigation:** React Navigation (Bottom Tabs & Stack Navigator)
 ---
 
