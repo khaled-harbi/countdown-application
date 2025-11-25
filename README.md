@@ -42,10 +42,10 @@ Navigation features like bottom tabs and stacked views provide a smooth and intu
 To run the backend correctly, make sure to complete the following steps:
 
 #### 1. Install required software
-Before running the project, ensure you have:
+Before running the project, ensure you have:  
 a. Node.js  
-b. Expo CLI
-c. Firebase account for authentication and database
+b. Expo CLI  
+c. Firebase account for authentication and database  
 
 #### 2. Configure Firebase
 - Create a Firebase project
@@ -73,13 +73,13 @@ Scan the QR code displayed in the terminal using the Expo Go app on your phone.
 ## 📷 Screenshots  
 
 <p align="center">
-  <img src="1.png" alt="Screenshot 1" width="45%">
-  <img src="2.png" alt="Screenshot 2" width="45%">
+  <img src="1.jpg" alt="Screenshot 1" width="45%">
+  <img src="2.jpg" alt="Screenshot 2" width="45%">
 </p>
 
 <p align="center">
-  <img src="3.png" alt="Screenshot 3" width="45%">
-  <img src="4.png" alt="Screenshot 4" width="45%">
+  <img src="3.jpg" alt="Screenshot 3" width="45%">
+  <img src="4.jpg" alt="Screenshot 4" width="45%">
 </p>
 
 ---
